@@ -4,6 +4,20 @@ author: Ryan Estrellado
 date: February 25, 2018
 autosize: true
 
+How we listen and speak matters 
+========================================================
+
+Listening well empowers others to sort through their thoughts by speaking freely and safely  
+
+Rising to the challenge of speaking empowers us to sort through our own thoughts
+and to share information with others
+
+Big idea 
+========================================================
+title: false 
+
+Listening and speaking well are about self management 
+
 Listening 
 ========================================================
 
@@ -32,6 +46,24 @@ Habits to Consider Changing
 - Voicing disagreement at every point of disagreement 
 - Believing that understanding and disagreeing are mutually exclusive 
 
-Practical Tips 
+Practical Tips for Listening
+========================================================
+
+Grow as a Public Speaker 
+========================================================
+
+Balance Skill and Challenge 
+======================================================== 
+
+Do 
+========================================================
+
+Don't 
+========================================================
+
+Habits to Consider Changing 
+======================================================== 
+
+Practical Tips for Listening
 ========================================================
 
