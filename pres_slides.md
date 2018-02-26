@@ -1,37 +1,37 @@
-pres_slides
+Listening and Speaking
 ========================================================
-author: 
-date: 
+author: Ryan Estrellado
+date: February 25, 2018
 autosize: true
 
-First Slide
+Listening 
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+The fundamental goal of listening is to understand what the speaker is communicating 
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Do 
 ========================================================
 
+- Ask questions if you don't understand what the speaker is communicating 
 
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
-
-Slide With Plot
+Don't 
 ========================================================
 
-![plot of chunk unnamed-chunk-2](pres_slides-figure/unnamed-chunk-2-1.png)
+- Formulate responses instead of listening 
+- Interrupt the speaker 
+- Speak for too long without allowing the speaker a chance to respond 
+- Starting with the assumption that you need to solve the speaker's problem 
+- Voicing disagreement at every point of disagreement 
+- The belief that understanding and disagreeing are mutually exclusive 
+
+Habits to Consider Changing 
+======================================================== 
+
+- Formulating responses instead of listening 
+- Starting with the assumption that you need to solve the speaker's problem 
+- Voicing disagreement at every point of disagreement 
+- Believing that understanding and disagreeing are mutually exclusive 
+
+Practical Tips 
+========================================================
+
