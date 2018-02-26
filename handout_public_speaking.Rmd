@@ -2,7 +2,7 @@
 title: "Getting (Slightly) More Comfortable With Public Speaking"
 author: "Ryan Estrellado"
 date: "2/9/2018"
-output: html_document
+output: github_document
 ---
   
 This handout is about reframing our worries and fears about public speaking, coming up with practical ways to reduce our worries about public speaking, and encouraging others to try public speaking more. 

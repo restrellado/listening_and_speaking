@@ -2,7 +2,7 @@
 title: "Active Listening"
 author: "Ryan Estrellado"
 date: "2/1/2018"
-output: html_document
+output: github_document
 ---
 
 Wikipedia has a pretty good [definition of active listening](https://en.wikipedia.org/wiki/Active_listening): 
