@@ -18,6 +18,16 @@ title: false
 
 Listening and speaking well are about self management 
 
+Even though these activities are interactive in nature, you can only
+ever *really* control what you say, think, and do  
+
+Trust the Process 
+========================================================
+
+![test](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
+
+You can't always control the outcomes, but you can always control yourself 
+
 Listening 
 ========================================================
 
