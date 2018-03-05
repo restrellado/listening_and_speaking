@@ -33,6 +33,10 @@ Listening
 
 The fundamental goal of listening is to understand what the speaker is communicating 
 
+- Sometimes you will agree with the speaker 
+- Sometimes you will not agree 
+- Most of the time neither are required in order to listen for understanding 
+
 Do 
 ========================================================
 
