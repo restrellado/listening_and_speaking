@@ -69,6 +69,12 @@ Grow as a Public Speaker
 Balance Skill and Challenge 
 ======================================================== 
 
+- high challenge + low skill = frustration 
+- high skill + low challenge = boredom 
+- appropriate skill + appropriate challenge = flow  
+
+*[Flow by Mihály Csíkszentmihályi](https://en.wikipedia.org/wiki/Flow_(psychology))*
+
 Do 
 ========================================================
 
