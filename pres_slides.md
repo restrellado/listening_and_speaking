@@ -66,6 +66,24 @@ Practical Tips for Listening
 Grow as a Public Speaker 
 ========================================================
 
+- Frame fear as a something to reduce through our behaviors 
+- Manage the right blend of challenge and skill 
+
+Fear Reduction 
+========================================================
+
+Aim to *reduce* fear, not eliminate it 
+
+[Article: celebrity performers and stage fright](https://www.refinery29.com/2016/05/111114/celebrity-quotes-stage-fright-anxiety#slide-2)
+
+Fear Reduction 
+========================================================
+title:false
+
+"I, like, totally threw up before my show last night. I am reduced by nerves. I can be completely crushed by feelings of all kinds [...] I get nervous, I get freaked out, I get, you know, the usual stuff." -Lorde 
+
+"One show in Amsterdam, I was so nervous I escaped out the fire exit. I've thrown up a couple of times. Once in Brussels, I projectile vomited on someone.” -Adele
+
 Balance Skill and Challenge 
 ======================================================== 
 
