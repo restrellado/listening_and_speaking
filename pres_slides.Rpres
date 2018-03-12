@@ -84,6 +84,23 @@ title:false
 
 "One show in Amsterdam, I was so nervous I escaped out the fire exit. I've thrown up a couple of times. Once in Brussels, I projectile vomited on someone.” -Adele
 
+Practical Tips for Paying Down Fear
+========================================================
+
+- Read through my presentation slides multiple times 
+- Write out concepts I find difficult to talk about clearly 
+- Explain a concept to someone I know using plain language 
+- Pick a concept or a slide and explain it out loud during my commute
+
+Pay Down Fear 
+========================================================
+title:false 
+
+- These will probably not elimnate fear  
+- These are all uncomortable to start doing 
+- These are all uncomfortable to do 
+- These all pay down fear and build confidence 
+
 Balance Skill and Challenge 
 ======================================================== 
 
