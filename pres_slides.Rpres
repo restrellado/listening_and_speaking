@@ -63,6 +63,10 @@ Habits to Consider Changing
 Practical Tips for Listening
 ========================================================
 
+- Use a lucky charm 
+- Find your baseline skill 
+- Develop go-to language for clarification 
+
 Grow as a Public Speaker 
 ========================================================
 
@@ -119,6 +123,6 @@ Don't
 Habits to Consider Changing 
 ======================================================== 
 
-Practical Tips for Listening
+Practical Tips for Public Speaking
 ========================================================
 
