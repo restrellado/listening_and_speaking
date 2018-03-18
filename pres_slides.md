@@ -126,6 +126,10 @@ Don't
 Habits to Consider Changing 
 ======================================================== 
 
+- Viewing the absence of fear or nervousness as a goal 
+- Adopt a view that an appropriate amount of stress helps to get you ready to perform 
+- Comparing yourself to other speakers 
+
 Practical Tips for Public Speaking
 ========================================================
 
