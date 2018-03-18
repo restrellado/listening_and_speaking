@@ -117,12 +117,6 @@ Balance Skill and Challenge
 
 *[Flow by Mihály Csíkszentmihályi](https://en.wikipedia.org/wiki/Flow_(psychology))*
 
-Do 
-========================================================
-
-Don't 
-========================================================
-
 Habits to Consider Changing 
 ======================================================== 
 
@@ -130,6 +124,10 @@ Habits to Consider Changing
 - Adopt a view that an appropriate amount of stress helps to get you ready to perform 
 - Comparing yourself to other speakers 
 
-Practical Tips for Public Speaking
+Supporting Others 
 ========================================================
 
+- Practice these techniques and reflect on what the experience is like 
+- Practice active listening with the people you support so you can understand 
+where they're starting from 
+- Meet them where they're starting from and push for small challenges 
