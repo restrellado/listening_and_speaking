@@ -41,6 +41,9 @@ Do
 ========================================================
 
 - Ask questions if you don't understand what the speaker is communicating 
+- Use verbal and non-verbal cues to signal that you are listening 
+- Defer judgement 
+- Be ok with silence between sentences and exchanges 
 
 Don't 
 ========================================================
