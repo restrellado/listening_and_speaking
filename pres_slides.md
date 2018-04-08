@@ -60,6 +60,11 @@ Practical Tips for Listening
 - Find your baseline skill 
 - Develop go-to language for clarification 
 
+My Lucky Charm 
+========================================================
+
+<img src="images/IMG_20180407_200835.jpg" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="400px" />
+
 Grow as a Public Speaker 
 ========================================================
 
