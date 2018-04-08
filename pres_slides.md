@@ -86,7 +86,7 @@ title:false
 
 "One show in Amsterdam, I was so nervous I escaped out the fire exit. I've thrown up a couple of times. Once in Brussels, I projectile vomited on someone.” -Adele
 
-Practical Tips for Paying Down Fear
+How I Pay Down My Fear 
 ========================================================
 
 - Read through my presentation slides multiple times 
