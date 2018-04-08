@@ -45,16 +45,6 @@ Do
 - Defer judgement 
 - Be ok with silence between sentences and exchanges 
 
-Don't 
-========================================================
-
-- Formulate responses instead of listening 
-- Interrupt the speaker 
-- Speak for too long without allowing the speaker a chance to respond 
-- Starting with the assumption that you need to solve the speaker's problem 
-- Voicing disagreement at every point of disagreement 
-- The belief that understanding and disagreeing are mutually exclusive 
-
 Habits to Consider Changing 
 ======================================================== 
 
