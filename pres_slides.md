@@ -1,7 +1,7 @@
 Listening and Speaking
 ========================================================
 author: Ryan Estrellado
-date: February 25, 2018
+date: April 24, 2018
 autosize: true
 
 How we listen and speak matters 
@@ -116,7 +116,7 @@ Habits to Consider Changing
 ======================================================== 
 
 - Viewing the absence of fear or nervousness as a goal 
-- Adopt a view that an appropriate amount of stress helps to get you ready to perform 
+- Viewing stress as unproductive
 - Comparing yourself to other speakers 
 
 Supporting Others 
