@@ -106,6 +106,11 @@ title:false
 Balance Skill and Challenge 
 ======================================================== 
 
+![](images/dsc_6207.jpg)
+
+Balance Skill and Challenge 
+======================================================== 
+
 - high challenge + low skill = frustration 
 - high skill + low challenge = boredom 
 - appropriate skill + appropriate challenge = flow  
