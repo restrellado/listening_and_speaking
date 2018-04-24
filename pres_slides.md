@@ -106,7 +106,7 @@ title:false
 Balance Skill and Challenge 
 ======================================================== 
 
-![](images/dsc_6207.jpg)
+![](images/IMG_20180424_152441.jpg)
 
 Balance Skill and Challenge 
 ======================================================== 
