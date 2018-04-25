@@ -139,4 +139,6 @@ Ryan Estrellado
 
 Twitter: [@RyanEs](https://twitter.com/RyanEs)  
 
-[http://ryanestrellado.netlify.com/](http://ryanestrellado.netlify.com/)
+Website: [http://ryanestrellado.netlify.com/](http://ryanestrellado.netlify.com/) 
+
+GitHub: [restrellado](https://github.com/restrellado)
